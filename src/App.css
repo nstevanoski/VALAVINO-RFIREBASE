@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #fbfbfb;
+}
+
+.main {
+  margin-left: 160px; 
+  font-size: 28px;  
+  padding: 0px 10px;
+}
+
+input:disabled {
+  background: #e8e8e840;
+}

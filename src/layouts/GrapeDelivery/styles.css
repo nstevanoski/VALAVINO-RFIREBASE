@@ -1,0 +1,20 @@
+a.grapeDelivery {
+  margin: 1em;
+  background: gainsboro;
+  padding: 2em;
+  border-radius: 1em;
+  color: darkred;
+  text-decoration: none;
+  box-shadow: 5px 5px 18px -8px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 5px 5px 18px -8px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 5px 5px 18px -8px rgba(0, 0, 0, 0.75);
+}
+.card-grapedelivery {
+  margin: 1em;
+  margin-top: 4em;
+}
+
+a.grapeDelivery:hover {
+    background: #cccccc;
+}
+

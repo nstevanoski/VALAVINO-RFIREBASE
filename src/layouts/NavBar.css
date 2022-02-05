@@ -1,0 +1,24 @@
+.menu-logout {
+    float: right;
+    margin-top: 3px;
+    background: white;
+    color: darkred;
+    padding: 6px 18px;
+    border-radius: 10px;
+    font-weight: 700;
+}
+
+.menu-logout:hover {
+    cursor: pointer;
+    background-color: rgb(228, 228, 228);
+    color: rgb(167, 1, 1);
+}
+
+.header-name {
+    text-align: center;
+}
+
+.header-name a {
+    color:white;
+    text-decoration: none;
+}

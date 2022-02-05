@@ -1,0 +1,29 @@
+.notfound-box {
+    text-align: center;
+    color: darkred;
+    margin-top: 10em;
+}
+
+.notfound-go-back {
+    margin-top: 2em;
+}
+
+.notfound-go-back a {
+    background-color: gray;
+    padding: 1em 2em;
+    color: white;
+    border-radius: 1em;
+    text-decoration: none;
+}
+
+.notfound-go-back a:hover {
+    background-color: rgb(97, 97, 97);
+    cursor: pointer;
+}
+
+
+@media (max-width: 756px) {
+    .notfound-box  {
+        margin-top: 5em;
+    }
+}

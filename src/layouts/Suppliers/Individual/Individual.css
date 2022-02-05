@@ -1,0 +1,67 @@
+.card-header {
+    font-size: 20px;
+}
+
+.centered-text {
+    text-align: center;
+    margin-bottom: 1em;
+    margin-top: 1em;
+}
+
+.centered-text h2 {
+    font-size: 30px;
+    color: darkred;
+}
+
+.centered-text p {
+    font-size: 20px;
+}
+
+.card-header span {
+    color: rgb(223, 0, 0);
+    font-weight: 700;
+}
+
+
+th, td {
+    font-size: 15px;
+}
+
+.card { 
+    margin: 1em;
+}
+
+.card-header-right {
+    float: right;
+}
+
+.Toastify {
+    font-size: 16px;
+}
+
+.error {
+    text-align: center;
+    color: darkred;
+    font-weight: bold;
+}
+
+.search-bar {
+    float: left;
+    width: 30%;
+    margin: 5px;
+}
+
+.pagination {
+    float: right;
+    background: #efefef;
+    margin: 5px;
+}
+
+
+.ml-10 {
+    margin-left: 4em;
+}
+
+span.view-individual-cell-name {
+    color: darkred;
+}
